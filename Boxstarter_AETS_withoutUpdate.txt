@@ -12,8 +12,8 @@ cinst googlechrome
 
 # AETS tools
 cinst 7zip
-cinst ccleaner
-cinst malwarebytes
+#cinst ccleaner
+#cinst malwarebytes
 cinst skypeforbusinessbasic
 cinst skype
 cinst agentransack
